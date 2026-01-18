@@ -5,7 +5,7 @@ from nonebot import get_plugin_config
 from nonebot.plugin import PluginMetadata
 
 from .config import Config
-a=1
+
 __plugin_meta__ = PluginMetadata(
     name="nonebot_plugin_announcement",
     description="",
